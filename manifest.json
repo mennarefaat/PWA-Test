@@ -5,8 +5,8 @@
   "background_color": "#fff",
   "display": "fullscreen",
   "orientation": "portrait",
-  "scope": "/",
-  "start_url": "/",
+  "scope": "/PWA-Test/",
+  "start_url": "/PWA-Test/",
   "icons": [
     {
       "src": "images/icons/icon-72x72.png",
